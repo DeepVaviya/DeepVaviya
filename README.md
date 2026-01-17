@@ -62,10 +62,12 @@
 
   <h3>📈 GitHub Stats</h3>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DeepVaviya&show_icons=true&theme=radical&count_private=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff" height="180" alt="Deep's Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVaviya&theme=radical&bg_color=0d1117&mode=weekly" height="180" alt="Deep's Streak" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepVaviya&show_icons=true&theme=radical&count_private=true" height="180" alt="Deep's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVaviya&theme=radical" height="180" alt="Deep's Streak" />
+</div>
+
+---
 
   <br/>
 
