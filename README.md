@@ -1,83 +1,85 @@
-# Hi there, I'm Deep Vaviya 👋
-
-### 🚀 Full Stack Developer | Computer Engineering Student | Problem Solver
-
----
-
-## 🛠️ About Me
-
-- 🎓 **Computer Engineering Student** at Shah and Anchor Engineering College (Mumbai)
-- 💻 Skilled in building responsive web applications using **React, Node.js, and SQL**
-- 🏗️ Experienced in creating **efficient, scalable solutions**
-- 🔍 Passionate about **Web Development, Exploring New Tech**
-- 💬 Ask me about **JavaScript, C++, PHP, Databases (MySQL/PostgreSQL)**
-- 📫 Reach me at: **deepvaviya16@gmail.com**
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚙️ Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🔥 Featured Projects
-
-### 🧾 [ERP Billing System](https://github.com/DeepVaviya/ERP-Billing-System)
-**🚀 Tech Stack:** PHP, MySQL, HTML, CSS
-- ✅ Developed a complete **inventory and billing system**
-- ✅ Features modules for **brands, categories, and invoicing**
-- ✅ Integrated **real-time dashboard** for product stats and revenue tracking
-
-### 🌐 [Personal Portfolio](https://github.com/DeepVaviya/Personal-Website)
-**🚀 Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-- ✅ Responsive portfolio showcasing skills and projects
-- ✅ Follows modern **UI/UX design principles**
-- ✅ Hosted on **Netlify**
-
----
-
-## 🏆 Achievements
-
-- 🥈 **2nd Place** in Coding Quiz Competition (2024)
-- 💻 **TechShala Hackathon Participant**: Designed UI prototype in a team of 3
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepVaviya&show_icons=true&theme=radical&count_private=true" height="180" alt="Deep's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVaviya&theme=radical" height="180" alt="Deep's Streak" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Deep+Vaviya+%F0%9F%91%8B;Full+Stack+Developer;Computer+Engineering+Student;Passionate+Problem+Solver" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <h3>🛠️ About Me</h3>
+  <p>
+     🎓 <b>Computer Engineering Student</b> at Shah and Anchor Engineering College<br>
+     💻 Passionate about <b>Full Stack Web Development</b> (MERN, PHP, SQL)<br>
+     🔍 Exploring <b>AI, Automation & New Tech</b><br>
+     📫 Reach me at: <a href="mailto:deepvaviya16@gmail.com"><b>deepvaviya16@gmail.com</b></a>
+  </p>
+
+  ---
+
+  <h3>🚀 Tech Stack</h3>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python,php,mysql,postgres,mongodb,react,bootstrap,nodejs,express,jquery,android,git,github,postman,linux,windows&perline=10" alt="My Skills" />
+    </a>
+  </p>
+
+  ---
+
+  <h3>🔥 Featured Projects</h3>
+  
+  <table align="center">
+    <tr>
+      <td align="center" width="33%">
+        <b>🧾 ERP Billing System</b><br>
+        <br>
+        <img src="https://skillicons.dev/icons?i=php,mysql,html,css&theme=light" height="30"/><br>
+        <br>
+        Invntory & Billing System with<br>Real-time Dashboard
+        <br><br>
+        <a href="#"><b>View Project</b></a>
+      </td>
+      <td align="center" width="33%">
+        <b>🌐 Portfolio Website</b><br>
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light" height="30"/><br>
+        <br>
+        Responsive Design,<br>Hosted on Netlify
+        <br><br>
+        <a href="https://deepvaviya.netlify.app"><b>View Live</b></a>
+      </td>
+       <td align="center" width="33%">
+        <b>🏆 Achievements</b><br>
+        <br>
+        🥈 <b>2nd Place</b><br>Coding Quiz 2024<br>
+        <br>
+        💻 <b>TechShala</b><br>Hackathon Participant
+      </td>
+    </tr>
+  </table>
+
+  ---
+
+  <h3>📈 GitHub Stats</h3>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DeepVaviya&show_icons=true&theme=radical&count_private=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff" height="180" alt="Deep's Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVaviya&theme=radical&bg_color=0d1117&mode=weekly" height="180" alt="Deep's Streak" />
+  </div>
+
+  <br/>
+
+  <h3>📫 Let's Connect!</h3>
+  <div align="center">
+    <a href="https://linkedin.com/in/deep-vaviya">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:deepvaviya16@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://deepvaviya.netlify.app">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
+  </div>
+
 </div>
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-vaviya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepvaviya16@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepvaviya.netlify.app)
-
-**🔥 Always eager to learn, collaborate, and build innovative web solutions! 🚀**
