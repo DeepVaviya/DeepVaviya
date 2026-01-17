@@ -67,10 +67,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepVaviya&show_icons=true&theme=radical" alt="Deep's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVaviya&theme=radical" alt="Deep's Streak" />
-</p>
+## 📈 GitHub Stats
+
+![Deep's Stats](https://github-readme-stats.vercel.app/api?username=DeepVaviya&show_icons=true&theme=radical)
+![Deep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepVaviya&theme=radical)
 
 ---
 
