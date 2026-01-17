@@ -9,7 +9,7 @@
 - 🎓 **Computer Engineering Student** at Shah and Anchor Engineering College (Mumbai)
 - 💻 Skilled in building responsive web applications using **React, Node.js, and SQL**
 - 🏗️ Experienced in creating **efficient, scalable solutions**
-- 🔍 Passionate about **Web Development, Exploring New Tech, and Chess**
+- 🔍 Passionate about **Web Development, Exploring New Tech**
 - 💬 Ask me about **JavaScript, C++, PHP, Databases (MySQL/PostgreSQL)**
 - 📫 Reach me at: **deepvaviya16@gmail.com**
 
