@@ -44,13 +44,13 @@
 
 ## 🔥 Featured Projects
 
-### 🧾 [ERP Billing System](#)
+### 🧾 [ERP Billing System](https://github.com/DeepVaviya/ERP-Billing-System)
 **🚀 Tech Stack:** PHP, MySQL, HTML, CSS
 - ✅ Developed a complete **inventory and billing system**
 - ✅ Features modules for **brands, categories, and invoicing**
 - ✅ Integrated **real-time dashboard** for product stats and revenue tracking
 
-### 🌐 [Personal Portfolio](#)
+### 🌐 [Personal Portfolio](https://github.com/DeepVaviya/Personal-Website)
 **🚀 Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 - ✅ Responsive portfolio showcasing skills and projects
 - ✅ Follows modern **UI/UX design principles**
@@ -68,8 +68,8 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Deep's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Deep's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepVaviya&show_icons=true&theme=radical" alt="Deep's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVaviya&theme=radical" alt="Deep's Streak" />
 </p>
 
 ---
