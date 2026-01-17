@@ -68,6 +68,7 @@
 ## 📈 GitHub Stats
 
 ![Deep's Stats](https://github-readme-stats.vercel.app/api?username=DeepVaviya&show_icons=true&theme=radical)
+![Deep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepVaviya&theme=radical)
 
 ---
 
