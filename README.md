@@ -63,7 +63,6 @@
   <h3>📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepVaviya&show_icons=true&theme=radical&count_private=true" height="180" alt="Deep's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVaviya&theme=radical" height="180" alt="Deep's Streak" />
 </div>
 
