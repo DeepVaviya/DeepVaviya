@@ -53,9 +53,9 @@
         <br>
         <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" height="30"/><br>
         <br>
-        Responsive Design,<br>Hosted on Netlify
+        Responsive Design,<br>Hosted on Netlify<br>Easy splitting money between friends group
         <br><br>
-        <a href="https://deepvaviya.netlify.app"><b>View Live</b></a>
+        <a href="https://split-it-out.netlify.app/"><b>View Live</b></a>
       </td>
     </tr>
     <tr>
