@@ -67,6 +67,7 @@
         <br>
         💻 <b>TechShala</b><br>Hackathon Participant
       </td>
+      <td></td>
     </tr>
   </table>
 
