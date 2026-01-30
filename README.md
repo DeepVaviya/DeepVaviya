@@ -59,6 +59,7 @@
       </td>
     </tr>
     <tr>
+      <td></td>
        <td align="center" width="33%">
         <b>🏆 Achievements</b><br>
         <br>
