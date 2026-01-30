@@ -48,6 +48,17 @@
         <br><br>
         <a href="https://deepvaviya.netlify.app"><b>View Live</b></a>
       </td>
+      <td align="center" width="33%">
+        <b>🌐 Split-it-Out</b><br>
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" height="30"/><br>
+        <br>
+        Responsive Design,<br>Hosted on Netlify
+        <br><br>
+        <a href="https://deepvaviya.netlify.app"><b>View Live</b></a>
+      </td>
+    </tr>
+    <tr>
        <td align="center" width="33%">
         <b>🏆 Achievements</b><br>
         <br>
