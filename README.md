@@ -35,7 +35,7 @@
         <br>
         <img src="https://skillicons.dev/icons?i=php,mysql,html,css&theme=light" height="30"/><br>
         <br>
-        Invntory & Billing System with<br>Real-time Dashboard
+        Inventory & Billing System with<br>Real-time Dashboard
         <br><br>
         <a href="#"><b>View Project</b></a>
       </td>
@@ -62,6 +62,8 @@
       <td></td>
        <td align="center" width="33%">
         <b>🏆 Achievements</b><br>
+        <br>
+        🥇 <b>Winner</b><br>UI/UX Hackathon @ Watumull<br>
         <br>
         🥈 <b>2nd Place</b><br>Coding Quiz 2024<br>
         <br>
